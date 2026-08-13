@@ -1,0 +1,605 @@
+{
+  "items": [
+    {
+      "description": "Amazon 卖家场景三者常组合用：MCP 接 SP-API / 第三方数据源 → Skill 描述运营 SOP → Subagent 派多个角色干活。\n",
+      "items": [],
+      "title": "💡 什么是 Claude Skill / Plugin / MCP？"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Skills 收录"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1688-source-suppliers",
+          "description": "1688 找供应商/工厂/产业带查询 🆓 By @next-1688",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T06:13:57Z",
+            "owner": "next-1688",
+            "repo": "1688-source-suppliers",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1688-product-find",
+          "description": "1688 智能找商品/找同款，支持文本/图片/链接 🆓 By @next-1688",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T07:25:09Z",
+            "owner": "next-1688",
+            "repo": "1688-product-find",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zach-product-research",
+          "description": "Sorftime MCP 选品分析，交付 MD/HTML/Dashboard/Excel 四件套 💎 By @zach22-1999",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T05:53:09Z",
+            "owner": "zach22-1999",
+            "repo": "amazon-skills",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zach-feature-demand-validator",
+          "description": "Review/关键词/社区三维数据验证微创新是否真实需求 🆓 By @zach22-1999",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T05:53:09Z",
+            "owner": "zach22-1999",
+            "repo": "amazon-skills",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon-ABAkeyword",
+          "description": "监测 Amazon ABA 爆品关键词并出飞书仪表盘，三级预警 🆓 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T06:15:01Z",
+            "owner": "luotwo",
+            "repo": "Amazon-ABAkeyword",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-product-search",
+          "description": "Sorftime MCP 数据 → 飞书多维表 + Dashboard 可视化 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-02T05:09:33Z",
+            "owner": "luotwo",
+            "repo": "amazon-product-search",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorftime-cli",
+          "description": "Sorftime 官方多平台数据 CLI，类目/产品/关键词查询 💎 By @sorftime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T08:36:01Z",
+            "owner": "sorftime",
+            "repo": "sorftime-cli",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-amazon-VOC-trending-products",
+          "description": "Amazon 选品+VOC+竞品研究一体化流水线 🆓 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T14:20:45Z",
+            "owner": "luotwo",
+            "repo": "BSC-amazon-VOC-trending-products",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-SIF-Amazon-keyword-database",
+          "description": "SIF MCP 关键词数据库 skill，飞书结构化交付 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-22T11:45:32Z",
+            "owner": "luotwo",
+            "repo": "BSC-SIF-Amazon-keyword-database",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-trends-skills",
+          "description": "Google Trends 热度雷达 + 关键词监测 🆓 By @WaytoAIC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T14:45:41Z",
+            "owner": "WaytoAIC",
+            "repo": "google-trends-skills",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-Amazon-sif-keyword-lark-builder",
+          "description": "Sif 关键词 Excel → Lark 文档/多维表/Dashboard 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-22T10:50:04Z",
+            "owner": "luotwo",
+            "repo": "BSC-Amazon-sif-keyword-lark-builder",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🔍 选品调研"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zach-listing-health-checker",
+          "description": "真实消费者视角 9 维 Listing 健康度体检，零三方依赖 🆓 By @zach22-1999",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T05:53:09Z",
+            "owner": "zach22-1999",
+            "repo": "amazon-skills",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-Amazon-Rufus-Cosmo",
+          "description": "Amazon ASIN 的 COSMO + Rufus + Listing 审计与改写 🆓 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T09:44:45Z",
+            "owner": "luotwo",
+            "repo": "BSC-Amazon-Rufus-Cosmo",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecommerce-content-compliance-review",
+          "description": "跨境电商内容合规审核 Skill 🆓 By @WaytoAIC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T07:24:59Z",
+            "owner": "WaytoAIC",
+            "repo": "ecommerce-content-compliance-review",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "📝 Listing 与内容"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amazon-sp-mcp",
+          "description": "Amazon SP-API MCP，仅需 LWA OAuth 免 AWS IAM 🆓 By @mansournorouzi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T13:21:53Z",
+            "owner": "mansournorouzi",
+            "repo": "amazon-sp-mcp",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-amazon-SIF-Tool",
+          "description": "用 SIF MCP 分析 ASIN 流量/广告/关键词/销量并发飞书 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-14T14:19:21Z",
+            "owner": "luotwo",
+            "repo": "BSC-amazon-SIF-Tool",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon-Operations-Analysis-Dashboard",
+          "description": "Sorftime × Claude Code 智能运营诊断 + 类目机会导航 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-03T12:00:48Z",
+            "owner": "luotwo",
+            "repo": "Amazon-Operations-Analysis-Dashboard",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sif-mcp-skills",
+          "description": "SIF MCP 套件：Amazon 流量/关键词/广告/异常多维分析（4 子 skill）💎 By @WaytoAIC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-16T07:08:34Z",
+            "owner": "WaytoAIC",
+            "repo": "sif-mcp-skills",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "📊 数据分析与 BI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zach-search-term-report-analyzer",
+          "description": "分析 SP/SB/SD 广告搜索词报告，识别低效/放量/属性/场景词 🆓 By @zach22-1999",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T05:53:09Z",
+            "owner": "zach22-1999",
+            "repo": "amazon-skills",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-amazon-advertising-strategy",
+          "description": "面向 Amazon 卖家的广告策略 skill，生成可执行投放方案 🆓 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-08T06:22:58Z",
+            "owner": "luotwo",
+            "repo": "BSC-amazon-advertising-strategy",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "🎯 广告与流量"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "review-analyzer-skill",
+          "description": "AI 评论深度分析（22 维标签 + VOC 看板），跨境电商优先 🆓 By @buluslan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T14:52:38Z",
+            "owner": "buluslan",
+            "repo": "review-analyzer-skill",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voc-amazon-reviews",
+          "description": "亚马逊 10 站点评论 VOC 分析 MCP，输出中英双语建议 💎 By @mguozhen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T07:36:47Z",
+            "owner": "mguozhen",
+            "repo": "voc-amazon-reviews",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-reviews",
+          "description": "Sorftime MCP 评论分析 + lark-cli 发飞书文档报告 💎 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T15:13:02Z",
+            "owner": "luotwo",
+            "repo": "amazon-reviews",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "⭐ 评论与口碑"
+    },
+    {
+      "description": "暂无合格收录。此分类目前开源生态稀缺——欢迎贡献：Amazon Buyer Message 模板、A-to-Z 申诉信、Section 3 申诉等场景。",
+      "items": [],
+      "title": "💬 客服与售后"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "skill-creator",
+          "description": "Anthropic 官方 Skill 创建器，输出规范 SKILL.md 🆓🅐 By @anthropics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firecrawl-mcp-server",
+          "description": "Firecrawl 官方 MCP，抓 Amazon Listing/竞品独立站结构化数据 💎⭐ By @firecrawl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:16:10Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl-mcp-server",
+            "stars": 7222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actors-mcp-server",
+          "description": "Apify Actor 商店 MCP，含 Amazon Scraper 等 5000+ 爬虫 💎⭐ By @apify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:35:44Z",
+            "owner": "apify",
+            "repo": "apify-mcp-server",
+            "stars": 3447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brightdata-mcp",
+          "description": "Bright Data MCP，60+ 站点结构化抓取，反爬强 💎⭐ By @luminati-io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T07:39:54Z",
+            "owner": "brightdata",
+            "repo": "brightdata-mcp",
+            "stars": 2585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tavily-mcp",
+          "description": "Tavily 网搜 MCP，Amazon 选品调研做行业/趋势快搜 💎⭐ By @tavily-ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T09:34:42Z",
+            "owner": "tavily-ai",
+            "repo": "tavily-mcp",
+            "stars": 2318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zach-seller-skill-creator",
+          "description": "亚马逊卖家专用 skill 创建器，含 6 问准入闸 🆓 By @zach22-1999",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T05:53:09Z",
+            "owner": "zach22-1999",
+            "repo": "amazon-skills",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSC-Amazon-OPC-Agent-OS",
+          "description": "BSC OPC Agent OS V2.0 — Amazon 产品运营综合 AI 工作台 🆓 By @luotwo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-19T13:49:08Z",
+            "owner": "luotwo",
+            "repo": "BSC-Amazon-OPC-Agent-OS",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "🛠️ 通用底座"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎓 上手指南"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "关注",
+          "description": "release",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "用",
+          "description": "学 agent 编排",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T19:10:41Z",
+            "owner": "anthropics",
+            "repo": "claude-cookbooks",
+            "stars": 51446
+          }
+        }
+      ],
+      "title": "进阶路径"
+    },
+    {
+      "description": "最小 Skill 包含一个 文件，前缀 YAML frontmatter：\n进阶模板见官方 与 。 卖家场景模板可参考收录中的 。\n",
+      "items": [],
+      "title": "🏗️ 创作你自己的 Skill"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔗 资源"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "官方 skill 主仓库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "agent 实践案例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T19:10:41Z",
+            "owner": "anthropics",
+            "repo": "claude-cookbooks",
+            "stars": 51446
+          }
+        }
+      ],
+      "title": "官方"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "MCP 服务端集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "通用 skill 大合集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 72388
+          }
+        }
+      ],
+      "title": "同类 Awesome-list"
+    },
+    {
+      "description": "本仓库内容（README、CONTRIBUTING、模板等文档）按 CC0-1.0 释出到公共领域。 被收录的每个 skill 自身 license 以其原仓库声明为准。",
+      "items": [],
+      "title": "📜 License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:56.832Z",
+    "original_repository": "hikari0511/awesome-amazon-ec-skills",
+    "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
+    "enhanced_repository": "enhansome/enhansome-amazon-ec-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome Amazon EC Skills 亚马逊跨境电商 AI Agent Skills合集 with stars"
+  }
+}
