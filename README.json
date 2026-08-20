@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1205663202,
                 "language": "Python",
-                "last_commit": "2026-07-18T05:53:09Z",
+                "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 1205663202,
                 "language": "Python",
-                "last_commit": "2026-07-18T05:53:09Z",
+                "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -112,21 +112,6 @@
             },
             {
               "node_type": "item",
-              "title": "BSC-amazon-VOC-trending-products",
-              "description": "Amazon 选品+VOC+竞品研究一体化流水线 🆓 By @luotwo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1207542500,
-                "language": "Python",
-                "last_commit": "2026-04-14T14:20:45Z",
-                "owner": "luotwo",
-                "repo": "BSC-amazon-VOC-trending-products",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
               "title": "BSC-SIF-Amazon-keyword-database",
               "description": "SIF MCP 关键词数据库 skill，飞书结构化交付 💎 By @luotwo",
               "children": [],
@@ -137,6 +122,21 @@
                 "last_commit": "2026-04-22T11:45:32Z",
                 "owner": "luotwo",
                 "repo": "BSC-SIF-Amazon-keyword-database",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSC-amazon-VOC-trending-products",
+              "description": "Amazon 选品+VOC+竞品研究一体化流水线 🆓 By @luotwo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1207542500,
+                "language": "Python",
+                "last_commit": "2026-04-14T14:20:45Z",
+                "owner": "luotwo",
+                "repo": "BSC-amazon-VOC-trending-products",
                 "stars": 8
               }
             },
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 1205663202,
                 "language": "Python",
-                "last_commit": "2026-07-18T05:53:09Z",
+                "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 1205663202,
                 "language": "Python",
-                "last_commit": "2026-07-18T05:53:09Z",
+                "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2026-08-18T16:02:06Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170407
+                "stars": 170536
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-18T18:06:57Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7268
+                "stars": 7274
               }
             },
             {
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 911256711,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:10:22Z",
+                "last_commit": "2026-08-20T00:13:29Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 4203
+                "stars": 4291
               }
             },
             {
@@ -454,10 +454,10 @@
                 "archived": false,
                 "id": 923109265,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T20:10:44Z",
+                "last_commit": "2026-08-19T15:59:07Z",
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2336
+                "stars": 2340
               }
             },
             {
@@ -469,10 +469,10 @@
                 "archived": false,
                 "id": 1205663202,
                 "language": "Python",
-                "last_commit": "2026-07-18T05:53:09Z",
+                "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -515,7 +515,7 @@
                 "last_commit": "2026-08-18T16:02:06Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170407
+                "stars": 170536
               }
             },
             {
@@ -527,10 +527,10 @@
                 "archived": false,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-14T20:50:15Z",
+                "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 51841
+                "stars": 51878
               }
             }
           ],
@@ -558,7 +558,7 @@
                 "last_commit": "2026-08-18T16:02:06Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170407
+                "stars": 170536
               }
             },
             {
@@ -570,10 +570,10 @@
                 "archived": false,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-14T20:50:15Z",
+                "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 51841
+                "stars": 51878
               }
             }
           ],
@@ -595,7 +595,7 @@
                 "last_commit": "2026-08-17T21:28:42Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92564
+                "stars": 92587
               }
             },
             {
@@ -610,7 +610,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 72788
+                "stars": 72843
               }
             }
           ],
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:12.485Z",
+    "last_updated": "2026-08-20T06:17:53.069Z",
     "original_repository": "hikari0511/awesome-amazon-ec-skills",
     "original_repository_id": 1242060029,
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
