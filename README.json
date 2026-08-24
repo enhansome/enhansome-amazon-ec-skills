@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-06-30T14:45:41Z",
                 "owner": "WaytoAIC",
                 "repo": "google-trends-skills",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -179,6 +179,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "amazon-competitor-monitor",
+              "description": "Amazon 竞品监控 Skill，含 ASIN / seller / brand 追踪 🆓 By @WaytoAIC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193526635,
+                "language": "Python",
+                "last_commit": "2026-07-16T18:27:50Z",
+                "owner": "WaytoAIC",
+                "repo": "amazon-competitor-monitor",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "ASIN/卖家/品牌追踪、竞品 Listing 解构、价格/库存动态监控。",
+          "node_type": "group",
+          "title": "⚔️ 竞品分析"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zach-listing-health-checker",
               "description": "真实消费者视角 9 维 Listing 健康度体检，零三方依赖 🆓 By @zach22-1999",
               "children": [],
@@ -189,7 +211,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -226,6 +248,28 @@
           "description": "标题、五点、A+、品牌故事、SEO 文案、合规审核、COSMO/Rufus 适配。",
           "node_type": "group",
           "title": "📝 Listing 与内容"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ecom-details-image",
+              "description": "跨境电商视觉创作 Skill，25 个案例覆盖主图/场景图/详情图/平铺图，配 GPT-Image-2 API 提示词一键生图 💎🆕 By @liangdabiao",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231403659,
+                "language": "Python",
+                "last_commit": "2026-05-15T00:41:13Z",
+                "owner": "liangdabiao",
+                "repo": "ecom-details-image",
+                "stars": 948
+              }
+            }
+          ],
+          "description": "主图、详情图、A+ 模块图、短视频脚本、品牌 banner。",
+          "node_type": "group",
+          "title": "📸 视觉与素材"
         },
         {
           "children": [
@@ -308,7 +352,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -397,7 +441,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171238
+                "stars": 171327
               }
             },
             {
@@ -412,7 +456,7 @@
                 "last_commit": "2026-08-21T15:54:03Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7307
+                "stars": 7309
               }
             },
             {
@@ -424,10 +468,10 @@
                 "archived": false,
                 "id": 911256711,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T21:36:37Z",
+                "last_commit": "2026-08-24T14:06:54Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 4732
+                "stars": 4778
               }
             },
             {
@@ -457,7 +501,7 @@
                 "last_commit": "2026-08-20T14:11:49Z",
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2349
+                "stars": 2350
               }
             },
             {
@@ -472,7 +516,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -505,6 +549,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "从「🛠️ 通用底座」分类挑 1 个 skill 装上跑一遍（推荐",
+              "description": "或 ）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061953414,
+                "language": "Python",
+                "last_commit": "2026-08-21T17:10:55Z",
+                "owner": "anthropics",
+                "repo": "skills",
+                "stars": 171327
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "新手路径"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "关注",
               "description": "release",
               "children": [],
@@ -515,7 +581,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171238
+                "stars": 171327
               }
             },
             {
@@ -530,7 +596,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52059
+                "stars": 52079
               }
             }
           ],
@@ -548,7 +614,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "skills",
               "description": "官方 skill 主仓库",
               "children": [],
               "repo_info": {
@@ -558,12 +624,12 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171238
+                "stars": 171327
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "claude-cookbooks",
               "description": "agent 实践案例",
               "children": [],
               "repo_info": {
@@ -573,7 +639,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52059
+                "stars": 52079
               }
             }
           ],
@@ -585,7 +651,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-mcp-servers",
               "description": "MCP 服务端集合",
               "children": [],
               "repo_info": {
@@ -595,12 +661,12 @@
                 "last_commit": "2026-08-17T21:28:42Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92729
+                "stars": 92740
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-claude-skills",
               "description": "通用 skill 大合集",
               "children": [],
               "repo_info": {
@@ -610,7 +676,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73120
+                "stars": 73145
               }
             }
           ],
@@ -623,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:25:41.134Z",
+    "last_updated": "2026-08-24T14:42:19.833Z",
     "original_repository": "hikari0511/awesome-amazon-ec-skills",
     "original_repository_id": 1242060029,
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
