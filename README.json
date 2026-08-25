@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-07T06:13:57Z",
                 "owner": "next-1688",
                 "repo": "1688-source-suppliers",
-                "stars": 553
+                "stars": 554
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-05-15T00:41:13Z",
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 948
+                "stars": 951
               }
             }
           ],
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171327
+                "stars": 171429
               }
             },
             {
@@ -453,10 +453,10 @@
                 "archived": false,
                 "id": 899407931,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:54:03Z",
+                "last_commit": "2026-08-25T00:38:52Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7309
+                "stars": 7310
               }
             },
             {
@@ -468,10 +468,10 @@
                 "archived": false,
                 "id": 911256711,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:06:54Z",
+                "last_commit": "2026-08-24T20:36:12Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 4778
+                "stars": 4834
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-20T14:11:49Z",
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2350
+                "stars": 2352
               }
             },
             {
@@ -559,7 +559,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171327
+                "stars": 171429
               }
             }
           ],
@@ -581,7 +581,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171327
+                "stars": 171429
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52079
+                "stars": 52118
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171327
+                "stars": 171429
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52079
+                "stars": 52118
               }
             }
           ],
@@ -661,7 +661,7 @@
                 "last_commit": "2026-08-17T21:28:42Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92740
+                "stars": 92764
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73145
+                "stars": 73192
               }
             }
           ],
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:19.833Z",
+    "last_updated": "2026-08-25T06:32:03.288Z",
     "original_repository": "hikari0511/awesome-amazon-ec-skills",
     "original_repository_id": 1242060029,
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
