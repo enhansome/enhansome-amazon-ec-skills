@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 161
+                "stars": 163
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 161
+                "stars": 163
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 161
+                "stars": 163
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-04-26T07:24:59Z",
                 "owner": "WaytoAIC",
                 "repo": "ecommerce-content-compliance-review",
-                "stars": 6
+                "stars": 7
               }
             }
           ],
@@ -263,7 +263,7 @@
                 "last_commit": "2026-05-15T00:41:13Z",
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 961
+                "stars": 975
               }
             }
           ],
@@ -285,7 +285,7 @@
                 "last_commit": "2026-06-30T13:21:53Z",
                 "owner": "mansournorouzi",
                 "repo": "amazon-sp-mcp",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 161
+                "stars": 163
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171630
+                "stars": 171969
               }
             },
             {
@@ -452,11 +452,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 899407931,
-                "language": "JavaScript",
-                "last_commit": "2026-08-26T05:29:52Z",
+                "language": "TypeScript",
+                "last_commit": "2026-08-26T19:49:10Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7318
+                "stars": 7327
               }
             },
             {
@@ -468,10 +468,10 @@
                 "archived": false,
                 "id": 911256711,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:11:35Z",
+                "last_commit": "2026-08-26T11:54:41Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 4957
+                "stars": 5109
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-12T07:39:54Z",
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
-                "stars": 2610
+                "stars": 2612
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-20T14:11:49Z",
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2352
+                "stars": 2354
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 161
+                "stars": 163
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-05-19T13:49:08Z",
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-OPC-Agent-OS",
-                "stars": 23
+                "stars": 22
               }
             }
           ],
@@ -559,7 +559,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171630
+                "stars": 171969
               }
             }
           ],
@@ -581,7 +581,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171630
+                "stars": 171969
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52146
+                "stars": 52189
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171630
+                "stars": 171969
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52146
+                "stars": 52189
               }
             }
           ],
@@ -658,10 +658,10 @@
                 "archived": false,
                 "id": 896335270,
                 "language": null,
-                "last_commit": "2026-08-17T21:28:42Z",
+                "last_commit": "2026-08-26T20:37:13Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92826
+                "stars": 92872
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73258
+                "stars": 73416
               }
             }
           ],
@@ -689,9 +689,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:20:06.057Z",
-    "original_repository": "hikari0511/awesome-amazon-ec-skills",
-    "original_repository_id": 1242060029,
+    "last_updated": "2026-08-27T11:22:52.803Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1242060029,
+      "language": null,
+      "last_commit": "2026-05-19T02:39:54Z",
+      "owner": "hikari0511",
+      "repo": "awesome-amazon-ec-skills",
+      "stars": 136
+    },
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
     "enhanced_repository": "enhansome/enhansome-amazon-ec-skills",
     "enhanced_repository_description": null,
