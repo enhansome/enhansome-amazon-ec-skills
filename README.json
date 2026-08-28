@@ -18,7 +18,8 @@
                 "owner": "next-1688",
                 "repo": "1688-source-suppliers",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "next-1688",
                 "repo": "1688-product-find",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 163
-              }
+                "stars": 164
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 163
-              }
+                "stars": 164
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "luotwo",
                 "repo": "Amazon-ABAkeyword",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "luotwo",
                 "repo": "amazon-product-search",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "sorftime",
                 "repo": "sorftime-cli",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-SIF-Amazon-keyword-database",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-amazon-VOC-trending-products",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "WaytoAIC",
                 "repo": "google-trends-skills",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-sif-keyword-lark-builder",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "找品、判断市场容量、需求挖掘、关键词监测、供应链匹配。",
@@ -189,8 +200,9 @@
                 "last_commit": "2026-07-16T18:27:50Z",
                 "owner": "WaytoAIC",
                 "repo": "amazon-competitor-monitor",
-                "stars": 15
-              }
+                "stars": 16
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "ASIN/卖家/品牌追踪、竞品 Listing 解构、价格/库存动态监控。",
@@ -211,8 +223,9 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 163
-              }
+                "stars": 164
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-Rufus-Cosmo",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "WaytoAIC",
                 "repo": "ecommerce-content-compliance-review",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "标题、五点、A+、品牌故事、SEO 文案、合规审核、COSMO/Rufus 适配。",
@@ -263,8 +278,9 @@
                 "last_commit": "2026-05-15T00:41:13Z",
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 975
-              }
+                "stars": 988
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "主图、详情图、A+ 模块图、短视频脚本、品牌 banner。",
@@ -286,7 +302,8 @@
                 "owner": "mansournorouzi",
                 "repo": "amazon-sp-mcp",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-amazon-SIF-Tool",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "luotwo",
                 "repo": "Amazon-Operations-Analysis-Dashboard",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "WaytoAIC",
                 "repo": "sif-mcp-skills",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "销售、库存、Session、CVR、ACOS、利润看板与周报、运营诊断。",
@@ -352,8 +372,9 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 163
-              }
+                "stars": 164
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-amazon-advertising-strategy",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "SP / SB / SD / DSP / Posts / 红人 / affiliate / 站外 deal 站。",
@@ -390,7 +412,8 @@
                 "owner": "buluslan",
                 "repo": "review-analyzer-skill",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "mguozhen",
                 "repo": "voc-amazon-reviews",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -420,7 +444,8 @@
                 "owner": "luotwo",
                 "repo": "amazon-reviews",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "抓评、差评分析、合规索评、QA 起草、品牌舆情监控。",
@@ -441,8 +466,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172026
-              }
+                "stars": 172247
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -453,11 +479,12 @@
                 "archived": false,
                 "id": 899407931,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:38:32Z",
+                "last_commit": "2026-08-28T14:53:38Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7329
-              }
+                "stars": 7338
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -471,8 +498,9 @@
                 "last_commit": "2026-08-27T14:49:23Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 5150
-              }
+                "stars": 5251
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -486,8 +514,9 @@
                 "last_commit": "2026-08-12T07:39:54Z",
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
-                "stars": 2613
-              }
+                "stars": 2614
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -501,8 +530,9 @@
                 "last_commit": "2026-08-20T14:11:49Z",
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2356
-              }
+                "stars": 2359
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -516,8 +546,9 @@
                 "last_commit": "2026-08-20T05:53:05Z",
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 163
-              }
+                "stars": 164
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -532,7 +563,8 @@
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-OPC-Agent-OS",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": "Amazon 场景下可二次包装的通用 skill（综合 OS / 创建器 / 搜索 / 抓取 / 测试等）。",
@@ -559,8 +591,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172026
-              }
+                "stars": 172247
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": null,
@@ -581,8 +614,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172026
-              }
+                "stars": 172247
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -596,8 +630,9 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52193
-              }
+                "stars": 52237
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": null,
@@ -624,8 +659,9 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172026
-              }
+                "stars": 172247
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -639,8 +675,9 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52193
-              }
+                "stars": 52237
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": null,
@@ -658,11 +695,12 @@
                 "archived": false,
                 "id": 896335270,
                 "language": null,
-                "last_commit": "2026-08-26T20:37:13Z",
+                "last_commit": "2026-08-27T21:09:23Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92883
-              }
+                "stars": 92973
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             },
             {
               "node_type": "item",
@@ -676,8 +714,9 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73499
-              }
+                "stars": 73803
+              },
+              "first_seen": "2026-08-28T17:43:25.462Z"
             }
           ],
           "description": null,
@@ -689,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:50:25.180Z",
+    "last_updated": "2026-08-28T17:43:25.462Z",
     "original_repository_info": {
       "archived": false,
       "id": 1242060029,
@@ -697,7 +736,7 @@
       "last_commit": "2026-05-19T02:39:54Z",
       "owner": "hikari0511",
       "repo": "awesome-amazon-ec-skills",
-      "stars": 136
+      "stars": 137
     },
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
     "enhanced_repository": "enhansome/enhansome-amazon-ec-skills",
