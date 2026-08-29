@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1688找供应商 —— 结合用户需求与关键字查询对应的供应商及工厂信息 核心工具能力：1688供应商查询能力。用于查询1688平台上的供应商及工厂信息。 触发词：找供应商、查供应商、1688供应商、供应商信息、工厂信息、产业带查询。 不触发场景：找商品/选品 → 1688-product-find；比价/换供 → 1688-product-compare；下单付款 → 不处理。",
+                "homepage": null,
                 "id": 1231623013,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-07T06:13:57Z",
+                "open_issues": 0,
                 "owner": "next-1688",
                 "repo": "1688-source-suppliers",
-                "stars": 555
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1688智能找商品能力。理解用户找商品、找同款等需求，通过文本、图片或链接搜索匹配商品。 触发词：找商品、找同款、搜商品、想要 XX、帮我找、图片找货、链接找货、以图搜图。",
+                "homepage": null,
                 "id": 1204892871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-11T07:25:09Z",
+                "open_issues": 1,
                 "owner": "next-1688",
                 "repo": "1688-product-find",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -44,12 +54,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
+                "homepage": null,
                 "id": 1205663202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T05:53:05Z",
+                "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "agent-skills",
+                  "amazon-fba",
+                  "amazon-ppc",
+                  "amazon-seller",
+                  "claude-code",
+                  "codex",
+                  "cross-border-ecommerce",
+                  "cursor",
+                  "ecommerce-ai",
+                  "listing-optimization",
+                  "product-research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -60,12 +87,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
+                "homepage": null,
                 "id": 1205663202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T05:53:05Z",
+                "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "agent-skills",
+                  "amazon-fba",
+                  "amazon-ppc",
+                  "amazon-seller",
+                  "claude-code",
+                  "codex",
+                  "cross-border-ecommerce",
+                  "cursor",
+                  "ecommerce-ai",
+                  "listing-optimization",
+                  "product-research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -76,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon ABA 爆品关键词监测系统 - 自动发现类目爆发关键词，生成飞书多维表格+仪表盘报告",
+                "homepage": null,
                 "id": 1198040091,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T06:15:01Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "Amazon-ABAkeyword",
-                "stars": 43
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -92,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon product search skill: Sorftime MCP data → Lark Base (飞书多维表格) + Dashboard visualization",
+                "homepage": null,
                 "id": 1199143480,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-02T05:09:33Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "amazon-product-search",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -108,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sorftime 多平台电商数据分析 CLI 工具，支持 Amazon、Shopee、Walmart 平台的类目分析、产品查询、关键词研究、数据监控和智能分析",
+                "homepage": null,
                 "id": 1219761879,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-30T08:36:01Z",
+                "open_issues": 0,
                 "owner": "sorftime",
                 "repo": "sorftime-cli",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -124,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon keyword database skill for Claude with SIF MCP workflow, structured keyword outputs, and Feishu-ready delivery guidance",
+                "homepage": null,
                 "id": 1217894064,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-22T11:45:32Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-SIF-Amazon-keyword-database",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -140,12 +204,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beginner-friendly Amazon product research and VOC analysis skill with Markdown reports, charts, and optional Feishu delivery",
+                "homepage": null,
                 "id": 1207542500,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-14T14:20:45Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-amazon-VOC-trending-products",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "amazon",
+                  "amazon-fba",
+                  "claude-code",
+                  "competitor-analysis",
+                  "feishu",
+                  "keyword-research",
+                  "market-research",
+                  "product-research",
+                  "voc-analysis"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -156,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Trends hot radar and keyword watch Codex skills for AI commerce workflows",
+                "homepage": null,
                 "id": 1231505085,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-30T14:45:41Z",
+                "open_issues": 0,
                 "owner": "WaytoAIC",
                 "repo": "google-trends-skills",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -172,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill for turning Sif keyword research Excel into Lark docs, Base, dashboards, and optional Amazon CSV.",
+                "homepage": null,
                 "id": 1205722111,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-22T10:50:04Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-sif-keyword-lark-builder",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -195,12 +284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codex skill for Amazon competitor monitoring with ASIN, seller, and brand tracking.",
+                "homepage": null,
                 "id": 1193526635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-16T18:27:50Z",
+                "open_issues": 0,
                 "owner": "WaytoAIC",
                 "repo": "amazon-competitor-monitor",
-                "stars": 16
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -218,12 +312,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
+                "homepage": null,
                 "id": 1205663202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T05:53:05Z",
+                "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "agent-skills",
+                  "amazon-fba",
+                  "amazon-ppc",
+                  "amazon-seller",
+                  "claude-code",
+                  "codex",
+                  "cross-border-ecommerce",
+                  "cursor",
+                  "ecommerce-ai",
+                  "listing-optimization",
+                  "product-research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -234,12 +345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code skill for evidence-based Amazon COSMO + Rufus + Listing audits and rewrites.",
+                "homepage": null,
                 "id": 1212326532,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-16T09:44:45Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-Rufus-Cosmo",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -250,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-border ecommerce content compliance review skill for Codex and OpenClaw",
+                "homepage": null,
                 "id": 1193517966,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-26T07:24:59Z",
+                "open_issues": 0,
                 "owner": "WaytoAIC",
                 "repo": "ecommerce-content-compliance-review",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -273,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个面向 claude code / Codex / OpenClaw 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
+                "homepage": null,
                 "id": 1231403659,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-15T00:41:13Z",
+                "open_issues": 2,
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 988
+                "stars": 992,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -296,12 +422,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Amazon SP-API — connect Claude to Seller Central for sales, inventory, orders, fees, and analytics. LWA-only auth, no AWS credentials required.",
+                "homepage": null,
                 "id": 1148295635,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-30T13:21:53Z",
+                "open_issues": 1,
                 "owner": "mansournorouzi",
                 "repo": "amazon-sp-mcp",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "amazon",
+                  "claude",
+                  "mcp",
+                  "model-context-protocol",
+                  "seller-central",
+                  "sp-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -312,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "用 SIF MCP 分析亚马逊 ASIN 流量、广告、关键词、销量，并把结果落地到飞书多维表格",
+                "homepage": null,
                 "id": 1210542480,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-14T14:19:21Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-amazon-SIF-Tool",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -328,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "智能运营模式诊断与类目机会导航系统 - 基于 Sorftime x Claude Code 构建的亚马逊运营分析技能",
+                "homepage": null,
                 "id": 1200423302,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-03T12:00:48Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "Amazon-Operations-Analysis-Dashboard",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -344,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIF MCP skill bundle for Amazon traffic, keyword, ad, and anomaly analysis in Codex/OpenClaw.",
+                "homepage": null,
                 "id": 1212215105,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-04-16T07:08:34Z",
+                "open_issues": 0,
                 "owner": "WaytoAIC",
                 "repo": "sif-mcp-skills",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -367,12 +520,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
+                "homepage": null,
                 "id": 1205663202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T05:53:05Z",
+                "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "agent-skills",
+                  "amazon-fba",
+                  "amazon-ppc",
+                  "amazon-seller",
+                  "claude-code",
+                  "codex",
+                  "cross-border-ecommerce",
+                  "cursor",
+                  "ecommerce-ai",
+                  "listing-optimization",
+                  "product-research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -383,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个面向 Amazon 卖家的广告策略 skill，用来快速生成可执行的投放方案。",
+                "homepage": null,
                 "id": 1203903746,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-08T06:22:58Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-amazon-advertising-strategy",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -406,12 +581,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI 驱动的电商评论深度分析工具 — 22维度标签构建 · 生成14章洞察报告 · 内置6套主题看板 · 可写入飞书",
+                "homepage": null,
                 "id": 1172534467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:03:06Z",
+                "open_issues": 0,
                 "owner": "buluslan",
                 "repo": "review-analyzer-skill",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "ai",
+                  "amazon",
+                  "claude",
+                  "data-analysis",
+                  "e-commerce",
+                  "gemini",
+                  "machine-learning",
+                  "nlp",
+                  "product-analysis",
+                  "python",
+                  "review-analysis",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -422,12 +615,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Review Analyzer — agent-native VOC for e-commerce. 6 MCP tools, ASIN or CSV input, black-gold dashboard. Backed by Shulex VOC OpenAPI (10 markets).",
+                "homepage": "https://github.com/mguozhen/voc-amazon-reviews",
                 "id": 1175588425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-25T07:36:47Z",
+                "open_issues": 2,
                 "owner": "mguozhen",
                 "repo": "voc-amazon-reviews",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "amazon",
+                  "amazon-fba",
+                  "amazon-seller-tools",
+                  "ecommerce",
+                  "helium10-alternative",
+                  "jungle-scout-alternative",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "review-analysis",
+                  "voc",
+                  "voice-of-customer"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -438,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon product review analysis skill: sorftime MCP + Feishu doc report via lark-cli",
+                "homepage": null,
                 "id": 1201355218,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-04T15:13:02Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "amazon-reviews",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -461,12 +677,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172247
+                "stars": 172318,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -477,12 +700,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+                "homepage": "https://firecrawl.dev",
                 "id": 899407931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:53:38Z",
+                "open_issues": 155,
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7338
+                "stars": 7340,
+                "topics": [
+                  "batch-processing",
+                  "claude",
+                  "content-extraction",
+                  "data-collection",
+                  "firecrawl",
+                  "firecrawl-ai",
+                  "javascript-rendering",
+                  "llm-tools",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "search-api",
+                  "web-crawler",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -493,12 +736,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+                "homepage": "https://mcp.apify.com",
                 "id": 911256711,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:49:23Z",
+                "open_issues": 144,
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 5251
+                "stars": 5293,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -509,12 +762,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+                "homepage": "https://brightdata.com/",
                 "id": 966718614,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T07:39:54Z",
+                "open_issues": 35,
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
-                "stars": 2614
+                "stars": 2614,
+                "topics": [
+                  "ai-agents",
+                  "ai-integrations",
+                  "anti-bot-detection",
+                  "browser-automation",
+                  "data-collection",
+                  "data-extraction",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "modelcontextprotocol",
+                  "scraping",
+                  "scraping-tools",
+                  "structured-data",
+                  "web-crawling",
+                  "web-data",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -525,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production ready MCP server with real-time search, extract, map & crawl.",
+                "homepage": null,
                 "id": 923109265,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:11:49Z",
+                "open_issues": 48,
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2359
+                "stars": 2360,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -541,12 +821,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Agent Skills for Amazon sellers: product research, feature validation, listing audits, ads search-term analysis, and CVR diagnostics. 亚马逊跨境电商 Skills。",
+                "homepage": null,
                 "id": 1205663202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T05:53:05Z",
+                "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 164
+                "stars": 165,
+                "topics": [
+                  "agent-skills",
+                  "amazon-fba",
+                  "amazon-ppc",
+                  "amazon-seller",
+                  "claude-code",
+                  "codex",
+                  "cross-border-ecommerce",
+                  "cursor",
+                  "ecommerce-ai",
+                  "listing-optimization",
+                  "product-research"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -557,12 +854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BSC OPC Agent OS V3.3 — Amazon 产品运营 AI 工具",
+                "homepage": null,
                 "id": 1233943553,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-19T13:49:08Z",
+                "open_issues": 0,
                 "owner": "luotwo",
                 "repo": "BSC-Amazon-OPC-Agent-OS",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -586,12 +888,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172247
+                "stars": 172318,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -609,12 +918,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172247
+                "stars": 172318,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -625,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+                "homepage": null,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:42:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:53:43Z",
+                "open_issues": 318,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52237
+                "stars": 52250,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -654,12 +975,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172247
+                "stars": 172318,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -670,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+                "homepage": null,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:42:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:53:43Z",
+                "open_issues": 318,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52237
+                "stars": 52250,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -693,12 +1026,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of MCP servers.",
+                "homepage": "https://glama.ai/mcp/servers",
                 "id": 896335270,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:09:23Z",
+                "open_issues": 3712,
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 92973
+                "stars": 93010,
+                "topics": [
+                  "ai",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             },
@@ -709,12 +1050,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+                "homepage": null,
                 "id": 1078079172,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
+                "open_issues": 1346,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73803
+                "stars": 73828,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "antigravity",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "composio",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "mcp",
+                  "openai-codex",
+                  "rube",
+                  "saas",
+                  "skill",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
             }
@@ -728,15 +1092,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:25.462Z",
+    "last_updated": "2026-08-29T04:59:38.520Z",
     "original_repository_info": {
       "archived": false,
+      "description": "亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游）",
+      "homepage": null,
       "id": 1242060029,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-19T02:39:54Z",
+      "open_issues": 0,
       "owner": "hikari0511",
       "repo": "awesome-amazon-ec-skills",
-      "stars": 137
+      "stars": 138,
+      "topics": [
+        "ai-agent",
+        "alibaba-1688",
+        "amazon",
+        "amazon-mcp",
+        "amazon-seller",
+        "awesome",
+        "awesome-list",
+        "chinese",
+        "claude-code",
+        "claude-skill",
+        "claude-skills",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "mcp-server",
+        "sp-api"
+      ]
     },
     "original_repository_sha": "64c586e8ce7c12c882129ffdc8d567a31e71ce1f",
     "enhanced_repository": "enhansome/enhansome-amazon-ec-skills",
