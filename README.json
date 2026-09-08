@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 178,
+                "stars": 183,
                 "topics": [
                   "agent-skills",
                   "amazon-fba",
@@ -75,7 +75,7 @@
                 "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 178,
+                "stars": 183,
                 "topics": [
                   "agent-skills",
                   "amazon-fba",
@@ -108,7 +108,7 @@
                 "open_issues": 1,
                 "owner": "next-1688",
                 "repo": "1688-product-find",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -321,7 +321,7 @@
                 "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 178,
+                "stars": 183,
                 "topics": [
                   "agent-skills",
                   "amazon-fba",
@@ -403,7 +403,7 @@
                 "open_issues": 2,
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 1072,
+                "stars": 1087,
                 "topics": [
                   "skill",
                   "skills"
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 178,
+                "stars": 183,
                 "topics": [
                   "agent-skills",
                   "amazon-fba",
@@ -686,10 +686,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-03T16:37:14Z",
-                "open_issues": 1218,
+                "open_issues": 1216,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 174954,
+                "stars": 175140,
                 "topics": [
                   "agent-skills"
                 ]
@@ -708,11 +708,11 @@
                 "id": 899407931,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T22:58:49Z",
+                "last_commit": "2026-09-08T06:44:14Z",
                 "open_issues": 130,
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7411,
+                "stars": 7417,
                 "topics": [
                   "batch-processing",
                   "claude",
@@ -744,11 +744,11 @@
                 "id": 911256711,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T05:58:48Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-08T10:04:54Z",
+                "open_issues": 156,
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 6217,
+                "stars": 6340,
                 "topics": [
                   "agents",
                   "ai",
@@ -771,10 +771,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-12T07:39:54Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
-                "stars": 2633,
+                "stars": 2634,
                 "topics": [
                   "ai-agents",
                   "ai-integrations",
@@ -809,7 +809,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-03T06:56:27Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
                 "stars": 2373,
@@ -833,7 +833,7 @@
                 "open_issues": 1,
                 "owner": "zach22-1999",
                 "repo": "amazon-skills",
-                "stars": 178,
+                "stars": 183,
                 "topics": [
                   "agent-skills",
                   "amazon-fba",
@@ -897,10 +897,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-03T16:37:14Z",
-                "open_issues": 1218,
+                "open_issues": 1216,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 174954,
+                "stars": 175140,
                 "topics": [
                   "agent-skills"
                 ]
@@ -927,10 +927,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-03T16:37:14Z",
-                "open_issues": 1218,
+                "open_issues": 1216,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 174954,
+                "stars": 175140,
                 "topics": [
                   "agent-skills"
                 ]
@@ -953,7 +953,7 @@
                 "open_issues": 323,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52487,
+                "stars": 52547,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -984,10 +984,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-03T16:37:14Z",
-                "open_issues": 1218,
+                "open_issues": 1216,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 174954,
+                "stars": 175140,
                 "topics": [
                   "agent-skills"
                 ]
@@ -1010,7 +1010,7 @@
                 "open_issues": 323,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52487,
+                "stars": 52547,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -1034,11 +1034,11 @@
                 "id": 896335270,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-07T10:39:30Z",
-                "open_issues": 3505,
+                "last_commit": "2026-09-07T23:11:49Z",
+                "open_issues": 2889,
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 94538,
+                "stars": 94607,
                 "topics": [
                   "ai",
                   "mcp"
@@ -1059,10 +1059,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
-                "open_issues": 1417,
+                "open_issues": 1423,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 74615,
+                "stars": 74657,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:45:06.516Z",
+    "last_updated": "2026-09-08T10:06:24.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游）",
