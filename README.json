@@ -403,7 +403,7 @@
                 "open_issues": 2,
                 "owner": "liangdabiao",
                 "repo": "ecom-details-image",
-                "stars": 1239,
+                "stars": 1242,
                 "topics": [
                   "skill",
                   "skills"
@@ -685,11 +685,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-22T17:16:36Z",
-                "open_issues": 1280,
+                "last_commit": "2026-09-24T16:20:39Z",
+                "open_issues": 1292,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 177887,
+                "stars": 178049,
                 "topics": [
                   "agent-skills"
                 ]
@@ -708,11 +708,11 @@
                 "id": 911256711,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T09:37:51Z",
-                "open_issues": 183,
+                "last_commit": "2026-09-25T10:25:07Z",
+                "open_issues": 185,
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 8276,
+                "stars": 8437,
                 "topics": [
                   "agents",
                   "ai",
@@ -734,11 +734,11 @@
                 "id": 899407931,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T07:26:13Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-25T07:59:08Z",
+                "open_issues": 148,
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7509,
+                "stars": 7511,
                 "topics": [
                   "batch-processing",
                   "claude",
@@ -774,7 +774,7 @@
                 "open_issues": 44,
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
-                "stars": 2655,
+                "stars": 2656,
                 "topics": [
                   "ai-agents",
                   "ai-integrations",
@@ -809,10 +809,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T20:56:42Z",
-                "open_issues": 57,
+                "open_issues": 56,
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2402,
+                "stars": 2407,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -896,11 +896,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-22T17:16:36Z",
-                "open_issues": 1280,
+                "last_commit": "2026-09-24T16:20:39Z",
+                "open_issues": 1292,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 177887,
+                "stars": 178049,
                 "topics": [
                   "agent-skills"
                 ]
@@ -926,11 +926,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-22T17:16:36Z",
-                "open_issues": 1280,
+                "last_commit": "2026-09-24T16:20:39Z",
+                "open_issues": 1292,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 177887,
+                "stars": 178049,
                 "topics": [
                   "agent-skills"
                 ]
@@ -949,11 +949,11 @@
                 "id": 678973052,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-23T20:00:12Z",
-                "open_issues": 343,
+                "last_commit": "2026-09-24T18:19:10Z",
+                "open_issues": 341,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52942,
+                "stars": 52975,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -983,11 +983,11 @@
                 "id": 1061953414,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-22T17:16:36Z",
-                "open_issues": 1280,
+                "last_commit": "2026-09-24T16:20:39Z",
+                "open_issues": 1292,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 177887,
+                "stars": 178049,
                 "topics": [
                   "agent-skills"
                 ]
@@ -1006,11 +1006,11 @@
                 "id": 678973052,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-23T20:00:12Z",
-                "open_issues": 343,
+                "last_commit": "2026-09-24T18:19:10Z",
+                "open_issues": 341,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52942,
+                "stars": 52975,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:25.462Z"
@@ -1035,10 +1035,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-23T06:38:45Z",
-                "open_issues": 2298,
+                "open_issues": 2358,
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-servers",
-                "stars": 95479,
+                "stars": 95504,
                 "topics": [
                   "ai",
                   "mcp"
@@ -1059,10 +1059,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-18T07:16:11Z",
-                "open_issues": 1519,
+                "open_issues": 1524,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 75579,
+                "stars": 75611,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:31:49.918Z",
+    "last_updated": "2026-09-25T10:35:35.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游）",
