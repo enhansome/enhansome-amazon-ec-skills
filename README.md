@@ -93,7 +93,7 @@ Amazon 跨境卖家的痛点：
 
 > ASIN/卖家/品牌追踪、竞品 Listing 解构、价格/库存动态监控。
 
-* [amazon-competitor-monitor](https://github.com/WaytoAIC/amazon-competitor-monitor) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-07-16 — Amazon 竞品监控 Skill，含 ASIN / seller / brand 追踪 🆓 *By [@WaytoAIC](https://github.com/WaytoAIC)*
+* [amazon-competitor-monitor](https://github.com/WaytoAIC/amazon-competitor-monitor) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-07-16 — Amazon 竞品监控 Skill，含 ASIN / seller / brand 追踪 🆓 *By [@WaytoAIC](https://github.com/WaytoAIC)*
 
 ### <a id="listing-content"></a>📝 Listing 与内容
 
@@ -107,7 +107,7 @@ Amazon 跨境卖家的痛点：
 
 > 主图、详情图、A+ 模块图、短视频脚本、品牌 banner。
 
-* [ecom-details-image](https://github.com/liangdabiao/ecom-details-image) ⭐ 1,332 | 🐛 2 | 🌐 Python | 📅 2026-10-01 — 跨境电商视觉创作 Skill，25 个案例覆盖主图/场景图/详情图/平铺图，配 GPT-Image-2 API 提示词一键生图 💎🆕 *By [@liangdabiao](https://github.com/liangdabiao)*
+* [ecom-details-image](https://github.com/liangdabiao/ecom-details-image) ⭐ 1,343 | 🐛 2 | 🌐 Python | 📅 2026-10-01 — 跨境电商视觉创作 Skill，25 个案例覆盖主图/场景图/详情图/平铺图，配 GPT-Image-2 API 提示词一键生图 💎🆕 *By [@liangdabiao](https://github.com/liangdabiao)*
 
 ### <a id="analytics-bi"></a>📊 数据分析与 BI
 
@@ -129,7 +129,7 @@ Amazon 跨境卖家的痛点：
 
 > 抓评、差评分析、合规索评、QA 起草、品牌舆情监控。
 
-* [review-analyzer-skill](https://github.com/buluslan/review-analyzer-skill) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-09-17 — AI 评论深度分析（22 维标签 + VOC 看板），跨境电商优先 🆓 *By [@buluslan](https://github.com/buluslan)*
+* [review-analyzer-skill](https://github.com/buluslan/review-analyzer-skill) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2026-09-17 — AI 评论深度分析（22 维标签 + VOC 看板），跨境电商优先 🆓 *By [@buluslan](https://github.com/buluslan)*
 * [voc-amazon-reviews](https://github.com/mguozhen/voc-amazon-reviews) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2026-05-25 — 亚马逊 10 站点评论 VOC 分析 MCP，输出中英双语建议 💎 *By [@mguozhen](https://github.com/mguozhen)*
 * [amazon-reviews](https://github.com/luotwo/amazon-reviews) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-04-04 — Sorftime MCP 评论分析 + lark-cli 发飞书文档报告 💎 *By [@luotwo](https://github.com/luotwo)*
 
@@ -143,11 +143,11 @@ Amazon 跨境卖家的痛点：
 
 > Amazon 场景下可二次包装的通用 skill（综合 OS / 创建器 / 搜索 / 抓取 / 测试等）。
 
-* [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09 — Anthropic 官方 Skill 创建器，输出规范 SKILL.md 🆓🅐 *By [@anthropics](https://github.com/anthropics)*
-* [actors-mcp-server](https://github.com/apify/actors-mcp-server) ⭐ 10,226 | 🐛 195 | 🌐 TypeScript | 📅 2026-10-09 — Apify Actor 商店 MCP，含 Amazon Scraper 等 5000+ 爬虫 💎⭐ *By [@apify](https://github.com/apify)*
-* [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) ⭐ 7,573 | 🐛 158 | 🌐 JavaScript | 📅 2026-10-09 — Firecrawl 官方 MCP，抓 Amazon Listing/竞品独立站结构化数据 💎⭐ *By [@firecrawl](https://github.com/firecrawl)*
-* [brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) ⭐ 2,664 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-08 — Bright Data MCP，60+ 站点结构化抓取，反爬强 💎⭐ *By [@luminati-io](https://github.com/luminati-io)*
-* [tavily-mcp](https://github.com/tavily-ai/tavily-mcp) ⭐ 2,426 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-05 — Tavily 网搜 MCP，Amazon 选品调研做行业/趋势快搜 💎⭐ *By [@tavily-ai](https://github.com/tavily-ai)*
+* [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09 — Anthropic 官方 Skill 创建器，输出规范 SKILL.md 🆓🅐 *By [@anthropics](https://github.com/anthropics)*
+* [actors-mcp-server](https://github.com/apify/actors-mcp-server) ⭐ 10,369 | 🐛 193 | 🌐 TypeScript | 📅 2026-10-09 — Apify Actor 商店 MCP，含 Amazon Scraper 等 5000+ 爬虫 💎⭐ *By [@apify](https://github.com/apify)*
+* [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) ⭐ 7,576 | 🐛 159 | 🌐 JavaScript | 📅 2026-10-09 — Firecrawl 官方 MCP，抓 Amazon Listing/竞品独立站结构化数据 💎⭐ *By [@firecrawl](https://github.com/firecrawl)*
+* [brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) ⭐ 2,667 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-08 — Bright Data MCP，60+ 站点结构化抓取，反爬强 💎⭐ *By [@luminati-io](https://github.com/luminati-io)*
+* [tavily-mcp](https://github.com/tavily-ai/tavily-mcp) ⭐ 2,426 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-05 — Tavily 网搜 MCP，Amazon 选品调研做行业/趋势快搜 💎⭐ *By [@tavily-ai](https://github.com/tavily-ai)*
 * [zach-seller-skill-creator](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-seller-skill-creator) ⭐ 209 | 🐛 1 | 🌐 Python | 📅 2026-08-20 — 亚马逊卖家专用 skill 创建器，含 6 问准入闸 🆓 *By [@zach22-1999](https://github.com/zach22-1999)*
 * [BSC-Amazon-OPC-Agent-OS](https://github.com/luotwo/BSC-Amazon-OPC-Agent-OS) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-19 — BSC OPC Agent OS V2.0 — Amazon 产品运营综合 AI 工作台 🆓 *By [@luotwo](https://github.com/luotwo)*
 
@@ -159,14 +159,14 @@ Amazon 跨境卖家的痛点：
 
 ### 新手路径
 
-1. 从「🛠️ 通用底座」分类挑 1 个 skill 装上跑一遍（推荐 [`skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09 或 [`tavily-mcp`](https://github.com/tavily-ai/tavily-mcp) ⭐ 2,426 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-05）
+1. 从「🛠️ 通用底座」分类挑 1 个 skill 装上跑一遍（推荐 [`skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09 或 [`tavily-mcp`](https://github.com/tavily-ai/tavily-mcp) ⭐ 2,426 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-05）
 2. 读官方 [Skills 文档](https://docs.claude.com/en/docs/claude-code/skills) 了解概念
 3. 再从「🔍 选品调研」/ 「📝 Listing 与内容」按你的业务环节挑 skill
 
 ### 进阶路径
 
-* 关注 [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09 release
-* 用 [`anthropics/claude-cookbooks`](https://github.com/anthropics/claude-cookbooks) ⭐ 53,299 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-28 学 agent 编排
+* 关注 [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09 release
+* 用 [`anthropics/claude-cookbooks`](https://github.com/anthropics/claude-cookbooks) ⭐ 53,322 | 🐛 354 | 🌐 Jupyter Notebook | 📅 2026-10-10 学 agent 编排
 * 自己写 skill 投稿 → 参考 [`docs/how-to-skillify.md`](./docs/how-to-skillify.md)（v1 待补）
 
 ***
@@ -188,7 +188,7 @@ description: 用于 [具体 Amazon 场景] 的 skill；当用户提到 [触发�
 2. ...
 ```
 
-进阶模板见官方 [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09 与 [`skill-creator`](https://github.com/anthropics/skills/tree/main/skill-creator) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09。
+进阶模板见官方 [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09 与 [`skill-creator`](https://github.com/anthropics/skills/tree/main/skill-creator) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09。
 卖家场景模板可参考收录中的 [`zach-seller-skill-creator`](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-seller-skill-creator) ⭐ 209 | 🐛 1 | 🌐 Python | 📅 2026-08-20。
 
 ***
@@ -217,16 +217,16 @@ description: 用于 [具体 Amazon 场景] 的 skill；当用户提到 [触发�
 
 ### 官方
 
-* [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,096 | 🐛 1,394 | 🌐 Python | 📅 2026-10-09 — 官方 skill 主仓库
-* [`anthropics/claude-cookbooks`](https://github.com/anthropics/claude-cookbooks) ⭐ 53,299 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-28 — agent 实践案例
+* [`anthropics/skills`](https://github.com/anthropics/skills) ⭐ 180,248 | 🐛 1,396 | 🌐 Python | 📅 2026-10-09 — 官方 skill 主仓库
+* [`anthropics/claude-cookbooks`](https://github.com/anthropics/claude-cookbooks) ⭐ 53,322 | 🐛 354 | 🌐 Jupyter Notebook | 📅 2026-10-10 — agent 实践案例
 * [Anthropic Skills 官方文档](https://docs.claude.com/en/docs/claude-code/skills)
 * [Model Context Protocol (MCP) 规范](https://modelcontextprotocol.io)
 * [Amazon SP-API 官方文档](https://developer-docs.amazon.com/sp-api/)
 
 ### 同类 Awesome-list
 
-* [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,951 | 🐛 2,591 | 📅 2026-10-09 — MCP 服务端集合
-* [`ComposioHQ/awesome-claude-skills`](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 76,739 | 🐛 1,673 | 🌐 Python | 📅 2026-09-18 — 通用 skill 大合集
+* [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,030 | 🐛 2,595 | 📅 2026-10-09 — MCP 服务端集合
+* [`ComposioHQ/awesome-claude-skills`](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 76,786 | 🐛 1,679 | 🌐 Python | 📅 2026-09-18 — 通用 skill 大合集
 
 ### Amazon 卖家工具生态
 
@@ -259,4 +259,4 @@ description: 用于 [具体 Amazon 场景] 的 skill；当用户提到 [触发�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
